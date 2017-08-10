@@ -1,2 +1,6 @@
 /build
 /.gradle
+
+#Idea files
+*.iml
+/.idea
